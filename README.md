@@ -1,15 +1,15 @@
 # php_boilerplate
 This is a template repo for doing framework-free small PHP projects with Unit Tests, like code challenges or katas.
 
-
 ## To Setup & Run Locally
 
-1. Clone repo locally `git clone git@github.com:davin2020/php_boilerplate.git` then `cd` to the new directory
-2. `composer install`
-3. `composer start`
-4. open `localhost:8091` in a browser
+1. Click the green button 'Use this template' and name your new repo
+2. Then clone that repo locally and `cd` to the new directory
+3. Run `composer install`
+4. Run `composer start`
+5. Open `localhost:8091` in a browser
 
-Don't forget to rename the files locally with suitable Class and Test names etc
+Don't forget to rename the files locally with suitable Class and Test names etc. You can also update composer.json with your own `name/repo name` and change the port number if wanted.
 
 ## To Run Unit Tests
 

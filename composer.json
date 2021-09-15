@@ -6,5 +6,8 @@
     "scripts": {
         "start": "php -S localhost:8091",
         "test": "phpunit tests --testdox"
+    },
+    "config": {
+    	"process-timeout": 2000
     }
 }
